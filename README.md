@@ -2,4 +2,4 @@
 
 Important steps for git workflow
 
-Hello, world. :)
+Hello, world. :) Nice day we're having, eh?
